@@ -1,0 +1,101 @@
+Customer_ID,Customer_Age,Gender,Product_Category,Purchase_Amount,Purchase_Date,Payment_Method,City,Returned
+1001,56,Female,Electronics,1569,2024-01-01,Cash,Mumbai,No
+1002,46,Female,Groceries,2186,2024-01-02,UPI,Pune,No
+1003,32,Male,Clothing,346,2024-01-03,Credit Card,Pune,No
+1004,60,Male,Electronics,3419,2024-01-04,Cash,Pune,No
+1005,25,Male,Electronics,3111,2024-01-05,UPI,Delhi,No
+1006,38,Male,Electronics,1934,2024-01-06,Cash,Delhi,No
+1007,56,Female,Groceries,2043,2024-01-07,Debit Card,Delhi,No
+1008,36,Male,Clothing,688,2024-01-08,Credit Card,Nagpur,No
+1009,40,Male,Electronics,3176,2024-01-09,Debit Card,Mumbai,No
+1010,28,Male,Home Decor,2159,2024-01-10,UPI,Delhi,No
+1011,28,Male,Electronics,2585,2024-01-11,Debit Card,Mumbai,No
+1012,41,Male,Electronics,3119,2024-01-12,Debit Card,Mumbai,No
+1013,53,Female,Groceries,4936,2024-01-13,UPI,Pune,No
+1014,57,Male,Groceries,2002,2024-01-14,Cash,Nagpur,No
+1015,41,Female,Clothing,4261,2024-01-15,Debit Card,Delhi,No
+1016,20,Male,Home Decor,3569,2024-01-16,Cash,Pune,No
+1017,39,Female,Groceries,462,2024-01-17,Debit Card,Pune,No
+1018,19,Male,Electronics,823,2024-01-18,Cash,Delhi,No
+1019,41,Male,Clothing,1216,2024-01-19,UPI,Mumbai,No
+1020,61,Female,Electronics,3843,2024-01-20,Debit Card,Pune,No
+1021,47,Female,Electronics,2249,2024-01-21,UPI,Mumbai,Yes
+1022,55,Female,Groceries,3923,2024-01-22,Debit Card,Nagpur,No
+1023,19,Male,Clothing,4748,2024-01-23,UPI,Mumbai,No
+1024,38,Female,Home Decor,3308,2024-01-24,UPI,Nagpur,No
+1025,50,Male,Home Decor,4290,2024-01-25,Debit Card,Mumbai,No
+1026,29,Male,Groceries,2256,2024-01-26,Debit Card,Pune,No
+1027,39,Female,Groceries,3370,2024-01-27,Debit Card,Pune,No
+1028,61,Female,Clothing,1882,2024-01-28,Credit Card,Nagpur,No
+1029,42,Male,Home Decor,2455,2024-01-29,Cash,Delhi,No
+1030,44,Male,Home Decor,1354,2024-01-30,Credit Card,Nagpur,No
+1031,59,Female,Home Decor,4699,2024-01-31,Credit Card,Nagpur,No
+1032,45,Female,Electronics,3391,2024-02-01,UPI,Mumbai,No
+1033,33,Female,Home Decor,1896,2024-02-02,Debit Card,Mumbai,Yes
+1034,32,Male,Electronics,4191,2024-02-03,Cash,Nagpur,No
+1035,64,Male,Clothing,4923,2024-02-04,UPI,Pune,No
+1036,61,Male,Electronics,4882,2024-02-05,Credit Card,Mumbai,No
+1037,20,Male,Clothing,1848,2024-02-06,Debit Card,Delhi,No
+1038,54,Male,Home Decor,1645,2024-02-07,UPI,Mumbai,No
+1039,24,Male,Home Decor,4399,2024-02-08,Debit Card,Mumbai,No
+1040,38,Female,Clothing,4123,2024-02-09,UPI,Delhi,No
+1041,26,Male,Groceries,453,2024-02-10,Debit Card,Nagpur,No
+1042,56,Male,Clothing,3383,2024-02-11,Credit Card,Delhi,No
+1043,35,Male,Groceries,2757,2024-02-12,Cash,Nagpur,No
+1044,21,Female,Electronics,298,2024-02-13,Credit Card,Nagpur,No
+1045,42,Male,Electronics,2400,2024-02-14,Cash,Nagpur,No
+1046,31,Male,Electronics,3161,2024-02-15,Debit Card,Delhi,No
+1047,26,Female,Home Decor,4633,2024-02-16,UPI,Nagpur,No
+1048,43,Male,Electronics,3977,2024-02-17,Credit Card,Pune,No
+1049,19,Male,Groceries,3069,2024-02-18,Cash,Delhi,No
+1050,37,Male,Electronics,3434,2024-02-19,Credit Card,Pune,No
+1051,45,Male,Clothing,3991,2024-02-20,Cash,Nagpur,No
+1052,64,Male,Clothing,1156,2024-02-21,Credit Card,Mumbai,No
+1053,24,Female,Home Decor,4267,2024-02-22,Cash,Nagpur,No
+1054,61,Female,Clothing,360,2024-02-23,Cash,Pune,No
+1055,25,Female,Groceries,4693,2024-02-24,Debit Card,Pune,Yes
+1056,64,Male,Electronics,1500,2024-02-25,Cash,Delhi,Yes
+1057,52,Male,Home Decor,4187,2024-02-26,Debit Card,Mumbai,No
+1058,31,Male,Electronics,1727,2024-02-27,Cash,Delhi,No
+1059,34,Female,Electronics,1418,2024-02-28,UPI,Pune,No
+1060,53,Male,Groceries,4696,2024-02-29,UPI,Nagpur,No
+1061,57,Male,Clothing,4935,2024-03-01,UPI,Mumbai,No
+1062,21,Female,Clothing,3304,2024-03-02,Cash,Nagpur,No
+1063,19,Male,Electronics,2935,2024-03-03,Debit Card,Nagpur,No
+1064,23,Female,Home Decor,4755,2024-03-04,Debit Card,Mumbai,Yes
+1065,59,Female,Clothing,1154,2024-03-05,Cash,Delhi,Yes
+1066,21,Female,Home Decor,4765,2024-03-06,UPI,Nagpur,No
+1067,46,Male,Clothing,3646,2024-03-07,UPI,Pune,No
+1068,35,Male,Home Decor,1245,2024-03-08,Debit Card,Nagpur,No
+1069,43,Male,Groceries,1893,2024-03-09,UPI,Mumbai,No
+1070,61,Male,Home Decor,3636,2024-03-10,Credit Card,Mumbai,No
+1071,51,Male,Groceries,762,2024-03-11,Debit Card,Mumbai,No
+1072,27,Male,Groceries,2685,2024-03-12,UPI,Delhi,No
+1073,53,Male,Home Decor,3554,2024-03-13,Debit Card,Nagpur,No
+1074,31,Female,Groceries,425,2024-03-14,Credit Card,Delhi,No
+1075,48,Male,Electronics,1159,2024-03-15,Debit Card,Delhi,Yes
+1076,32,Female,Groceries,4748,2024-03-16,Debit Card,Mumbai,No
+1077,25,Male,Clothing,3267,2024-03-17,Debit Card,Mumbai,No
+1078,31,Male,Home Decor,1015,2024-03-18,Debit Card,Delhi,No
+1079,40,Male,Electronics,4954,2024-03-19,Credit Card,Nagpur,No
+1080,57,Female,Home Decor,4842,2024-03-20,Cash,Pune,No
+1081,38,Female,Clothing,3320,2024-03-21,Debit Card,Delhi,No
+1082,33,Female,Clothing,216,2024-03-22,Debit Card,Nagpur,No
+1083,62,Female,Clothing,1443,2024-03-23,UPI,Mumbai,No
+1084,35,Male,Groceries,2405,2024-03-24,Debit Card,Mumbai,No
+1085,64,Female,Groceries,2724,2024-03-25,UPI,Nagpur,No
+1086,41,Male,Home Decor,1269,2024-03-26,Cash,Pune,No
+1087,43,Male,Home Decor,3644,2024-03-27,Credit Card,Mumbai,No
+1088,42,Female,Electronics,2765,2024-03-28,Credit Card,Mumbai,No
+1089,62,Female,Electronics,1260,2024-03-29,Cash,Mumbai,No
+1090,58,Female,Home Decor,2527,2024-03-30,Credit Card,Nagpur,No
+1091,46,Female,Groceries,3620,2024-03-31,Cash,Delhi,No
+1092,32,Female,Clothing,501,2024-04-01,Cash,Mumbai,No
+1093,62,Female,Home Decor,4476,2024-04-02,Cash,Delhi,No
+1094,18,Female,Electronics,806,2024-04-03,Credit Card,Pune,No
+1095,42,Female,Groceries,3370,2024-04-04,UPI,Mumbai,No
+1096,24,Male,Home Decor,899,2024-04-05,Cash,Mumbai,No
+1097,26,Female,Home Decor,1339,2024-04-06,Debit Card,Pune,No
+1098,41,Female,Groceries,390,2024-04-07,Credit Card,Mumbai,No
+1099,18,Male,Home Decor,2500,2024-04-08,Cash,Delhi,No
+1100,61,Female,Groceries,1180,2024-04-09,Cash,Nagpur,No
